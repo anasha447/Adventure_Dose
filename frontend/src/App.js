@@ -1,7 +1,7 @@
 const app = () => {
   return (
     
-      <h1>Welcom to Adventure Dose</h1>
+      <p>Welcom to Adventure Dose</p>
     
   );
 }
